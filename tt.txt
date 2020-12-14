@@ -1,0 +1,82 @@
+    1  yum install git -y
+    2  git
+    3  git --vesion
+    4  git --version
+    5  clear
+    6  mkdir git-demo-dec
+    7  cd git*
+    8  pwd
+    9  ls
+   10  git -init
+   11  git init
+   12  cat os-release
+   13  cd /etc/os-release
+   14  vim index1.html
+   15  git status
+   16  git ls-files
+   17  git status
+   18  git add index1.html
+   19  git status
+   20  git rm --cached index1.html
+   21  git status
+   22  git add index1.html
+   23  git status
+   24  git ls-files
+   25  git commit -m "First commit by Vivek"
+   26  git ls-files
+   27  git status
+   28  git remote add origin https://github
+   29  git push origin master
+   30  git remote add origin https://github/vivekkhosla3/git-demo-vivek
+   31  git remote add origin1 https://github/vivekkhosla3/git-demo-vivek
+   32  git remote -v
+   33  git push -u origin main
+   34  git push -u origin1 main
+   35  git push -u origin1
+   36  git push origin master
+   37  git push origin1 master
+   38  git remote add origin1 https://github/vivekkhosla3/git-demo-vivek.git
+   39  git remote rm origin
+   40  git remote rm origin1
+   41  git remote add origin https://github/vivekkhosla3/git-demo-vivek.git
+   42  git push origin master
+   43  git remote rm origin
+   44  git remote add origin https://github.com/vivekkhosla3/git-demo-vivek.git
+   45  git push origin master
+   46  remote -v
+   47  git remote -v
+   48  vim index2.html
+   49  add index2.html
+   50  git add index2.html
+   51  git index2.html commit -m "second file"
+   52  git commit index2.htm  -m "second file"
+   53  git commit index2.html  -m "second file"
+   54  git remote add origin https://github.com/vivekkhosla3/git-demo-vivek.git
+   55  git push origin master
+   56  git remote add origin1 ttps://github.com/vivekkhosla3/git-demo-vivek.git
+   57  git push origin1 master
+   58  vivekkhosla3
+   59  git remote add origin1 https://github.com/vivekkhosla3/git-demo-vivek.git
+   60  git remote add origin2 https://github.com/vivekkhosla3/git-demo-vivek.git
+   61  git push origin2 master
+   62  git remote add origin3 https://github.com/vivekkhosla3/git-demo-vivek.git
+   63  git push origin3 master
+   64  Password for 'https://vivekkhosla3@github.com':
+   65  git pull https://github.com/vivekkhosla3/git-demo-vivek.git
+   66  vim index2.html
+   67  git diff index2.html
+   68  git add index2.html
+   69  git commit index2.html "from v"
+   70  git commit index2.html -m "from v"
+   71  git push origin3 master
+   72  ssh-keygen -t rsa -C "vivek.khosla@yahoo.com"
+   73  ls -l
+   74  ls
+   75  ls /root/.ssh/id_rsa.pub
+   76  less /root/.ssh/id_rsa.pub
+   77  git push origin3 master
+   78  git remote set-url origin3 git@github.com:vivekkhosla3/git-demo-vivek.git
+   79  git push origin3 master
+   80  git remote -v
+   81  history
+   82  history >>tt.txt
