@@ -1,6 +1,5 @@
 taffdf
 1)mastere
-2)Remote xxx xx
 3)Third sense
 m) from master
 7) hava a test again
@@ -8,6 +7,6 @@ m) from master
 8) rather local as well:
 9) None
 9) None
-9) None k2
+8) None k2
 11) yes 
 12) yes
