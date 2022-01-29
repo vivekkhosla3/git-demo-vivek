@@ -1,6 +1,15 @@
-taffdf
-1)mastere
-2)Remote xxx xx
-3)Third sense
+taffdf test test test
+3)Third sense test
 m) from master
 7) hava a test again
+:8) from remote
+8) rather local as well:
+9) None
+9) None
+8) None k2
+11) yes 
+12) yes
+12) yes
+13) dhdhdh
+14) wow
+
